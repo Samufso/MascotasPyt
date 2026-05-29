@@ -1,6 +1,8 @@
 
 document.addEventListener("DOMContentLoaded", () => {
 
+    
+
     const slides = document.querySelectorAll(".carousel-slide");
     const prevBtn = document.getElementById("carouselPrev");
     const nextBtn = document.getElementById("carouselNext");
